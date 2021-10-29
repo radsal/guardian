@@ -123,6 +123,32 @@ To get a local copy up and running, follow these simple example steps. When buil
    ```
    npm start
    ```
+   
+   **From the vc-modules folder**
+
+   To build the package:
+
+   ```
+   npm install
+   npm run build
+   ```
+   **From the interfaces folder**
+
+   To build the package:
+
+   ```
+   npm install
+   npm run build
+   ```
+
+   **From the frontend folder**
+
+   To build the service:
+
+   ```
+   npm install
+   npm run build
+   ```
 
    **From the UI Service folder**
 
