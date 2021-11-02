@@ -147,7 +147,7 @@ To get a local copy up and running, follow these simple example steps. When buil
 
    ```
    npm install
-   npm run build
+   npm run build:deploy
    ```
 
    **From the UI Service folder**
